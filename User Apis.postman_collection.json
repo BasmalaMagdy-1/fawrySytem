@@ -1,0 +1,34 @@
+{
+	"info": {
+		"_postman_id": "895bd697-c987-4024-8bb1-4056492974ce",
+		"name": "User Apis",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "25089409"
+	},
+	"item": [
+		{
+			"name": "Sign_in",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Sign_up",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "/Client/search",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
